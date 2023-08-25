@@ -1,2 +1,3 @@
 # resume
-Bu benim resumemdir
+
+Bu benim ilk Resumem
